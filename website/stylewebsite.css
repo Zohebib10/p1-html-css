@@ -1,11 +1,11 @@
 body{
-    background-color:hotpink
+    background-color:green
 }
 ul{
     list-style-type: none;
 }
 <table{
-    background-color: blue;
+    background-color: green
 }
 td{
     border-style: solid;
@@ -23,18 +23,19 @@ h1{
     font-size: 62.5%;
   }
   body {
-    font-family: "Goldman", cursive;
+    font-family: sans-serif
   }
   
   nav {
     display: flex;
-    width: 100%;
+    width: 120%;
     padding: 2rem;
-    min-height: 10vh;
+    min-height: 1vh;
     align-items: center;
     flex-wrap: wrap;
     margin: auto;
-    background: #00a8c7;
+    background: #98fb98;
+
     justify-content: space-between;
   }
   nav ul {
@@ -44,7 +45,7 @@ h1{
   }
   nav li {
     font-size: 2.5rem;
-    padding: 0 4rem 0 4rem;
+    padding: 0 1.6rem 0 2rem;
   }
   nav a {
     color: green
