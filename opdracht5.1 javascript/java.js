@@ -1,5 +1,7 @@
-function ChangeColor()
+function MijnFunctie()
 {
-    document.getElementById('tekst1').innerHTML =new HTML
-}
+document.getElementById('mijnHeader').style.color = "blue";
 
+alert("ja of nee");
+
+}
