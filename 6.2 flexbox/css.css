@@ -1,0 +1,30 @@
+#Container
+{
+    width: 1200px;
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.Content
+{
+    width: 200px;
+    height: 200px;
+}
+#Blok1
+{
+    background-color: blue;
+}
+#Blok2
+{
+    background-color: black;
+}
+#Blok3
+{
+    background-color: red;
+}
+#Blok4
+{
+    background-color: green;
+}
