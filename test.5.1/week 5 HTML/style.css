@@ -2,15 +2,11 @@
     width: 90vw;
     background-color: deepskyblue;
     padding: 20px;
-    /*
-    border-style: dashed; 
-    */
 }
 
 .child {
     padding: 10px;
-    /*margin: 20px;
-    border-style:solid; */
+    
 
 
 }
@@ -28,12 +24,8 @@
 }
 .child-three {
     background-color: rgb(255, 179, 185);
-    /* margin-top: 40px; */
     margin-top: 40px;
 
-
-    /*top: 10px;
-    position: fixed; */
 }
 
 
@@ -58,3 +50,4 @@
     top: 0;
     left: 0;
   }
+ 

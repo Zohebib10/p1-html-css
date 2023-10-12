@@ -6,6 +6,8 @@ body {
 .navbar {
   overflow: hidden;
   background-color: #006400; 
+  height: 100px;
+  
 }
 
 .navbar a {
@@ -31,6 +33,7 @@ body {
   background-color: inherit;
   font-family: inherit;
   margin: 0;
+  
 }
 
 .navbar a:hover, .subnav:hover .subnavbtn {
@@ -60,3 +63,14 @@ body {
 .subnav:hover .subnav-content {
   display: block;
 }
+h1{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+}
+p{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+}
+ body{
+  background-color: lightgreen;
+ }
