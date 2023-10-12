@@ -9,12 +9,14 @@
     display: flex;
     justify-content: space-around;
 }
+
+.QuarterWide
+{
+    flex: 0 0 25vw;
+}
+
 .NavContent
 {
     color: blue;
     text-align: center;
-}
-.QuarterWide
-{
-    flex: 0 0 25vw;
 }
