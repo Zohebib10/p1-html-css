@@ -1,13 +1,10 @@
-var x;
-if (100)
-{
-// executed only if "condition" is true
-}
-else if (60)
-{
-// executed only if "condition" was false and "other condition" is true
-}
-else
-{
-// executed only if both "condition" and "other condition" were false
+var budget = 100;
+var product = 60;
+
+if (budget >= product) {
+  console.log("U heeft genoeg geld!");
+  document.body.style.color = "green";  // Maak de tekstkleur groen
+} else {
+  console.log("Helaas, te weinig geld");
+  document.body.style.color = "red";  // Maak de tekstkleur rood
 }
